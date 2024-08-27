@@ -37,7 +37,7 @@
         <p>Para minha querida rapunzel,</p>
         <p>Não há palavras suficientes para expressar o quanto você significa para mim. Cada momento com você é incrível e eu sou eternamente grato por ter você ao meu lado. Você é a razão da minha vida e a luz que ilumina o meu caminho. Te amoooooo mais do que qualquer coisa neste mundo.</p>
         <p>Com todo o meu amor,</p>
-        <p>[julio Cesar seu namorado ]</p>
+        <p>[Julio Cesar seu namorado lindo ]</p>
     </div>
     <div class="footer">
         <p>Site criado com amor</p>
